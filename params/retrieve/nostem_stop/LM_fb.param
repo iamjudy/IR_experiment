@@ -1,0 +1,12 @@
+<parameters>
+   <index>index/WT2G_nostem_stop</index>
+   <count>1000</count>
+   <trecFormat>true</trecFormat>
+   <rule>method:dirichlet,mu:2500</rule>
+   <queryOffset>401</queryOffset>
+   <runID>nostem_stop_LM_fb</runID>
+   <fbDocs>10</fbDocs>
+   <fbTerms>20</fbTerms>
+   <fbMu>0</fbMu>
+   <fbOrigWeight>0.5</fbOrigWeight>
+</parameters>

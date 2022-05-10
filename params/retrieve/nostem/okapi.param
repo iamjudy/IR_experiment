@@ -1,0 +1,8 @@
+<parameters>
+   <index>index/WT2G_nostem</index>
+   <count>1000</count>
+   <trecFormat>true</trecFormat>
+   <baseline>okapi,k1:2,b:0.75,k3:7</baseline>
+   <queryOffset>401</queryOffset>
+   <runID>nostem_Okapi</runID>
+</parameters>

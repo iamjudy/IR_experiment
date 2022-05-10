@@ -1,0 +1,8 @@
+<parameters>
+   <index>index/WT2G_stem_stop</index>
+   <count>1000</count>
+   <trecFormat>true</trecFormat>
+   <rule>method:laplace</rule>
+   <queryOffset>401</queryOffset>
+   <runID>stem_stop_LM_la</runID>
+</parameters>
